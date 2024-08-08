@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akhtar Hussain - Freelance Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        .portfolio-item {
+            background: #fff;
+            margin: 1rem 0;
+            padding: 1rem;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .portfolio-item h3 {
+            margin-top: 0;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Akhtar Hussain</h1>
+        <p>Freelancer Specializing in Shopify Dropshipping, Web Development, and Social Media Marketing</p>
+    </header>
+
+    <div class="container">
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hi, I'm Akhtar Hussain, a dedicated freelancer with expertise in Shopify dropshipping, web development, and social media marketing. I help businesses build and optimize their online presence to achieve their goals.</p>
+        </section>
+
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+
+            <div class="portfolio-item">
+                <h3>TrendyWear Fashion Store</h3>
+                <p>Developed a complete Shopify store for TrendyWear, a fashion brand targeting young adults. The project included theme customization, product listing, payment gateway integration, and mobile responsiveness. Implemented SEO strategies to improve search engine rankings.</p>
+                <p><strong>Skills Used:</strong> Shopify, HTML/CSS, JavaScript, SEO</p>
+                <a href="#">View Project</a>
+            </div>
+
+            <div class="portfolio-item">
+                <h3>Organic Growth for HealthyBites</h3>
+                <p>Managed and executed a social media marketing campaign for HealthyBites, a startup offering organic snacks. Created engaging content, ran targeted ads on Facebook and Instagram, and utilized influencer partnerships to increase brand awareness and sales.</p>
+                <p><strong>Skills Used:</strong> Social Media Marketing, Content Creation, Facebook Ads, Instagram Marketing</p>
+                <p><strong>Results:</strong> Achieved a 50% increase in followers and a 30% boost in sales within three months.</p>
+                <a href="#">View Project</a>
+            </div>
+
+            <div class="portfolio-item">
+                <h3>TechSolutions Corporate Website</h3>
+                <p>Designed and developed a corporate website for TechSolutions, an IT consulting firm. The website featured a modern design with a focus on user experience, including custom animations, interactive elements, and a blog section to share industry insights.</p>
+                <p><strong>Skills Used:</strong> Web Development, HTML/CSS, JavaScript, UI/UX Design</p>
+                <a href="#">View Project</a>
+            </div>
+        </section>
+
+        <section id="contact">
+            <h2>Contact</h2>
+            <p>If you'd like to work with me or have any questions, feel free to get in touch!</p>
+            <p>Email: <a href="mailto:akhtar@example.com">akhtar@example.com</a></p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Akhtar Hussain. All rights reserved.</p>
+    </footer>
+</body>
+</html>
